@@ -85,7 +85,7 @@ void lomuto_sort(int *array, size_t size, int left, int right)
 
 
 /**
- * quick_sort - Sort an array of integers in ascension using the quicksort algorithm.
+ * quick_sort - Sort an array of integers in ascension using the quicksort alg.
  * @array: An array of integers.
  * @size: The size of the array.
  * Description: Uses the Lomuto partition scheme. Prints
